@@ -1,1 +1,2 @@
 # QuantumComputingQubitxQubit
+As the final project for the QubitxQubit Quantum Computing course sponsored by The Coding School, I developed an encryption and decryption system using Qiskit and Python libraries. I integrated quantum encryption and decryption circuits with Python, converting classical bits to qubits and vice versa, and thoroughly tested the system for correctness and efficiency. Utilizing Qiskit, a powerful quantum computing framework, I generated a quantum-based key to build the encryption and decryption functions.
